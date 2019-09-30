@@ -1,6 +1,5 @@
-# Group03_FinalProject
-A program that helps the user find their next car easier and faster. 
-Uses graphing, searching and sorting on a big dataset to accomplish this.
+# CarFind
+
 
 Data folder
 -Contains data bases in .csv format. 
